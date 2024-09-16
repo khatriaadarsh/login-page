@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <div>Simple Game Coming Soon</div>
+    <div>Aadarsh Kumar Portfolio</div>
   )
 }
 
