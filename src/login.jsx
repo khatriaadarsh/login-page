@@ -5,10 +5,10 @@ function Login() {
         <h4 className="md:text-5xl text-3xl md:mb-9 mb-6 text-center font-bold">
           Login
         </h4>
-        <div >
+        <div>
           <div className="pt-5 pb-2 border-b-2">
             <label className="pr-24">Username</label>
-            
+
             <div className="">
               <i className="fa-regular fa-user"></i>
               <input
@@ -35,9 +35,11 @@ function Login() {
             <a href="/">Forget password?</a>
           </p>
 
-            <div className="text-center">
-            <button className=" border rounded-full px-2 w-full py-2">LOGIN</button>
-            </div>
+          <div className="text-center">
+            <button className=" border rounded-full px-2 w-full py-2">
+              LOGIN
+            </button>
+          </div>
 
           <p className="text-center my-5">Or Sign Up Using</p>
 
